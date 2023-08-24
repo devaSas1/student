@@ -25,7 +25,7 @@ Blogging in GitHub pagesgfx is a way to learn and code at the same time.
 ## Linux Shell and Bashgdjgrhgegte
 These are some commands that I can use in Bash. It's quite intuitive once you understand their meaning!
 - "ls" lists computer files in Unix and Unix-like operating systems
-- "cd" offers way to navigate and change working directory
+- "cd" offers way to navigate and chan ge working directory
 - "pwd" print working directory
 - "echo" used to display line of text/string that are passed as an argument
 - i hate coding
