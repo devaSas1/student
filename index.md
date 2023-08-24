@@ -22,7 +22,7 @@ Blogging in GitHub pagesgfx is a way to learn and code at the same time.
 
 
 
-## Linux Shell and Bash
+## Linux Shell and Bashgdj
 These are some commands that I can use in Bash. It's quite intuitive once you understand their meaning!
 - "ls" lists computer files in Unix and Unix-like operating systems
 - "cd" offers way to navigate and change working directory
