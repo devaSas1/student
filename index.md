@@ -9,8 +9,8 @@ title: Student Blog
 Go to my [Github account](https://github.com/devaSas1) !!
 ==================
 
-## Overview of Hacks, Study and Tangibles hbjhb
-Blogging in GitHub pagesgfx is a way to learn and code at the same time. 
+## About Me
+I'm 15 years old, I play guitar, I love cars, coffee, business, and occasionally 
 
 ![](images/image.png)
 
