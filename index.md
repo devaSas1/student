@@ -19,9 +19,8 @@ I'm 15 years old, I play guitar, I love cars, coffee, business, and occasionally
 This is my Youtube Channel. Please Like, Share, and Subscribe. I drop videos on fitness, self-improvement, challenges, and I make music too.
 [![Watch it](https://img.youtube.com/vi/rXiGE5fbsW4/sddefault.jpg)](https://youtu.be/rXiGE5fbsW4?si=guIZiXYXcEjGxZ87 "DSCZ Channel trailer")  
 
-<!-- - Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+## My favorite things 
+I love cars. If you like cars too, come to me and we can talk for hours
 
-
+![](images/N_vision_74.png)
 
