@@ -4,11 +4,13 @@ title: Student Blog
 ---
 
 
+
 ## Deva's Page 
 Go to my [Github account](https://github.com/devaSas1) !!
+==================
 
 ## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
+Blogging in GitHub pagesgfx is a way to learn and code at the same time. 
 
 ![](images/image.png)
 
