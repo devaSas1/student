@@ -13,6 +13,7 @@ Go to my [Github account](https://github.com/devaSas1) !!
 I'm 15 years old, I play guitar, I love cars, coffee, business, and occasionally I make youtube videos about fitness and such. I haven't enjoyed programming in the past, and I hope that with this experience of coding my own blog  
 
 ![](images/image.png)
+![](images/Albumcover.png)
 
 [![Watch it](https://img.youtube.com/vi/rXiGE5fbsW4/sddefault.jpg)](https://youtu.be/rXiGE5fbsW4?si=guIZiXYXcEjGxZ87 "DSCZ Channel trailer")
 
