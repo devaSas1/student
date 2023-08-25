@@ -16,7 +16,8 @@ I'm 15 years old, I play guitar, I love cars, coffee, business, and occasionally
 
 ![](images/Albumcover.png)
 
-This is my Youtube Channel. Please Like, Share, and Subscribe. I drop videos on fitness, self-improvement, challenges, and I make music too.
+# This is my Youtube Channel. Please Like, Share, and Subscribe. I drop videos on fitness, self-improvement, challenges, and I make music too.
+
 [![Watch it](https://img.youtube.com/vi/rXiGE5fbsW4/sddefault.jpg)](https://youtu.be/rXiGE5fbsW4?si=guIZiXYXcEjGxZ87 "DSCZ Channel trailer")  
 
 ## My favorite things 
