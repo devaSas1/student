@@ -21,7 +21,14 @@ I'm 15 years old, I play guitar, I love cars, coffee, business, and occasionally
 [![Watch it](https://img.youtube.com/vi/rXiGE5fbsW4/sddefault.jpg)](https://youtu.be/rXiGE5fbsW4?si=guIZiXYXcEjGxZ87 "DSCZ Channel trailer")  
 
 ## My favorite things 
-I love cars. If you like cars too, come to me and we can talk for hours
+**I love cars. If you like cars too, come to me and we can talk for hours**
 
 ![](images/N_vision_74.png)
 
+**Coffee is good too. It keeps me from outright failing my classes**
+
+![](images/coffee.png)
+
+**I like frogs. Ribbit**
+
+![](images/Frog.png)
