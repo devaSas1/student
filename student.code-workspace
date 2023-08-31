@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/student-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "student-main"
+	}
+}
