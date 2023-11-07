@@ -9,3 +9,8 @@ Unit2:
   description: Learn (JavaScript|Python|Java).  Start Agile development process.
   start: 4
   end: 7
+Unit3:
+  title: Web Application, Data, and N@tM
+  description: Student at teams need to build their own Website and Blog their understanding. The Website should include their own interests, but requires use of Python Flask and JavaScript programming.  By the end of the Unit, students will be ready to start many of the technical coding aspects of Web Development, having established a Deployed Website.  In November, the Trimester work will end with a project and student participation in Electives Department "Night at the Museum" (N@tM). 
+  start: 8
+  end: 11

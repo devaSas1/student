@@ -2,17 +2,14 @@
 layout: default
 title: Student Blog
 ---
-<link rel="stylesheet" href="assets/style/css/style.css">
-
 
 ## Deva's Page 
-Go to my [Github account](https://github.com/devaSas1) !!
-==================
-<div class = "typewriter">
-<h1 class= "typewriterText">I hate coding</h1>
-</div>
+Go to my [Github account](https://github.com/devaSas1)
+
+
+
 ## About Me
-I'm 15 years old, I play guitar, I love cars, coffee, business, and occasionally I make youtube videos about fitness and such. I haven't enjoyed programming in the past, and I hope that with this experience of coding my own blog  
+I'm 15 years old, I play guitar, I love cars, coffee, business, and occasionally I make youtube videos about fitness and such. I haven't enjoyed programming in the past, and I hope that changes with this experience of coding my own blog  
 
 ![](images/image.png)
 
