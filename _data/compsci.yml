@@ -19,12 +19,12 @@ Unit4:
   description: Student at teams need to build their own Website and Blog their understanding. The Website should include their own interests, but requires use of Python Flask and JavaScript programming.  By the end of the Unit, students will be ready to start many of the technical coding aspects of Web Development, having established a Deployed Website.  In November, the Trimester work will end with a project and student participation in Electives Department "Night at the Museum" (N@tM). 
   start: 13
   end: 16
-  Unit5:
+Unit5:
   title: OOP and Databases
   description: Trimester 2 continues with student learning OOP and immediately applying it to Databases.  Each week a "Student Teams" will be working on frontend and backend elements for their Create Performance Task (CPT).  GitHub pages will be focus of instruction for frontend, OOP in Python will be instruction provided to create a database which will help exceed every CPT requirement.
   start: 17
   end: 20
-  Unit6:
+Unit6:
   title: Create Performance Task (CPT) and N@tM 
   description: Trimester 2 concludes with student presenting their CPT project at N@tM.  Each person within "Student Teams" will have their own specialty within the student project that satisfied all their Create Performance Task requirements.   Student should be able to talk about design, coding, and present features of their portion of the system.
   start: 21
