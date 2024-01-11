@@ -134,12 +134,48 @@ Data Privacy and Security:
 
 # <span style="color:cadetblue">Homework</span>
 
-1. Describe the key differences between the Creative Commons Zero v1.0 Universal, Open Source MIT License, and Open Source GPL License.
+1. **Key Differences Between Licenses:**
 
-2. Give examples that illustrate how companies, such as Qualcomm and Red Hat, have leveraged Open Source licenses to establish unique business models.
+   - **Creative Commons Zero v1.0 Universal (CC0):**
+     - Purpose: Primarily used for creative works like images, music, and writing, but can also be applied to software.
+     - Permissions: Allows users to copy, modify, distribute, and use the work, even for commercial purposes, without asking for permission.
+     - Restrictions: None. CC0 is effectively a public domain dedication, where creators waive all their rights to the work worldwide under copyright law.
+     - Warranty: Provides no warranty.
 
-3. Why are businesses that heavily rely on Open Source software still need to generate income and how they manage this within the constraints of Open Source licenses.
+   - **Open Source MIT License:**
+     - Purpose: Widely used for software.
+     - Permissions: Allows users to do almost anything they want with the software, like using, copying, modifying, merging, publishing, distributing, sublicensing, and/or selling copies of the software.
+     - Restrictions: Requires that the original license and copyright notice be included with any substantial portions of the software.
+     - Warranty: Comes with a limited warranty and states that the software is provided "as is".
 
+   - **Open Source GPL License:**
+     - Purpose: Also used for software.
+     - Permissions: Like the MIT license, it allows users to run, study, share, and modify the software.
+     - Restrictions: Software derived from GPL-licensed projects must also be released under the GPL (copyleft). This means if you modify and distribute a GPL-licensed program, your modifications must also be open-source with the same license.
+     - Warranty: Similar to the MIT license, it disclaims any warranty.
+
+2. **Examples of Business Models Leveraging Open Source Licenses:**
+
+   - **Qualcomm:**
+     - Qualcomm has leveraged open-source software in their development of chipsets and telecommunications equipment. They often contribute to the Android Open Source Project (AOSP) since many of their products are used in Android devices.
+     - By contributing to open source, Qualcomm can help guide the development of software in ways that complement their hardware, creating an ecosystem where their products are more valuable.
+
+   - **Red Hat:**
+     - Red Hat is a prominent example of a company built around open-source software, specifically its Red Hat Enterprise Linux (RHEL) distribution.
+     - Rather than selling software, Red Hat provides subscriptions for support, training, and integration services. This model allows customers to benefit from the open-source nature of the software while paying for the assurance of expert support and services.
+
+3. **Income Generation in Open Source Business Models:**
+
+   - **Why Income is Necessary:** Even though the software is freely available, businesses still have costs like development, staff salaries, infrastructure, marketing, and support. Income generation is crucial for sustaining these operations.
+
+   - **Managing within Open Source Constraints:**
+     - **Support and Services:** Many open-source businesses, like Red Hat, offer paid support, consulting, and training services. This approach is beneficial for enterprise clients who need assurance of reliability and support.
+     - **Dual Licensing:** Some companies offer the same software under an open-source license and a separate commercial license, which might offer additional features, support, or licensing terms more suitable for commercial use.
+     - **Hardware or Software Integration:** Companies like Qualcomm benefit from integrating open-source software with their hardware products, adding value to the hardware they sell.
+     - **Custom Development:** Businesses often get hired to build custom features or versions of open-source software, tailored to specific needs of clients.
+     - **SaaS (Software as a Service):** Offering open-source software as a cloud-based service can be a revenue stream. Users pay for the convenience and scalability of the SaaS model.
+
+In all these models, the key is adding value around the open-source software in ways that customers are willing to pay for, without violating the principles and licenses of open source.
 # <span style="color:cadetblue">Extra Credit</span>
 
 Explain the significance of choosing an appropriate license for personal and team GitHub repositories, especially for the CPT project. How does this relate to the broader themes of legal and ethical concerns in computing?
