@@ -134,8 +134,7 @@ Data Privacy and Security:
 
 # <span style="color:cadetblue">Homework</span>
 
-1. **Key Differences Between Licenses:**
-
+l
    - **Creative Commons Zero v1.0 Universal (CC0):**
      - Purpose: Primarily used for creative works like images, music, and writing, but can also be applied to software.
      - Permissions: Allows users to copy, modify, distribute, and use the work, even for commercial purposes, without asking for permission.
